@@ -10,7 +10,7 @@
 6. Hit "Run As Java Application" in the IDE.
 8. Check if localhost server has started.
 9. Open Postman client service on Google chrome.
-10. Hit url : "http://localhost:8080/employees" and url : "http://localhost:8080/departments"
+10. Hit url : "http://localhost:8080/api/employees" and url : "http://localhost:8080/api/allEmployeesTaxDeduc"
 
 #ASSUMPTIONS#
 1. DATABASE and TABLES are created in MySQL
